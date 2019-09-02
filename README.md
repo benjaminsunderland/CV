@@ -40,7 +40,7 @@ I am seeking a backend role in an environment which will support me to expand my
 
 * Batch Scheduling (Resque)
 
-<br/><br/><br/>
+<br/>
 
 ### Projects
 
