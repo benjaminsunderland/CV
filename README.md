@@ -6,7 +6,7 @@ As a credit management platform, we had a variety of clients from small to very 
 
 I am seeking a backend role in an environment which will support me to expand my knowledge and improve my skills where I feel I can add real value and help make a difference. In addition to the hard skills I developed at Bilendo, I also bring enthusiasm, I'm a good team player who doesn't mind getting stuck in when required and a personality that naturally makes people feel comfortable.
 
-<br/>
+<br/><br/>
 
 ## Techstack
 
@@ -40,12 +40,11 @@ I am seeking a backend role in an environment which will support me to expand my
 
 * Batch Scheduling (Resque)
 
-<br/>
-
-### Projects
+<br/><br/>
 
 Project | Summary | Technologies
 ------- | ------- | ------------
+[MovieDB](https://github.com/benjaminsunderland/MovieDB) | Personal Project - A typical IMDB style platform | **Ruby**: Main language used to built the app; **Rails**: Framework; **Minitest**: Testing framework
 [TicTacToe](https://github.com/benjaminsunderland/TicTacToe) | Personal Project - A game where you can play the classic TicTacToe | **Ruby**: Main language used to built the app; **RSpec**: Testing framework
 [Banking](https://github.com/benjaminsunderland/bank_tech_test) | Personal Project - A banking application. You can have an account that is able to deposit and withdraw | **Ruby**: Main language used to built the app; **RSpec**: Testing framework
 [BookScanner](https://github.com/benjaminsunderland/BookScanner) | Personal Project - An application that outputs how many times each individual word has appeared from the 'railway children' | **Javascript** Language; **NodeJS** Framework; **Jasmine** Testing framework
