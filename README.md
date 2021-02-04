@@ -1,6 +1,6 @@
 ## Benjamin Sunderland
 
-Having had a fascination in software development since a young age, I decided to embark on a software engineering career. This led me to the award winning bootcamp 'Makers Academy'. After graduating, I set up in Munich where I have been for the last one year and seven months. I have been working for a fintech start-up 'Bilendo' who are based in credit management and have an online platform.
+Having had a fascination in software development since a young age, I decided to embark on a software engineering career. This led me to the award winning bootcamp 'Makers Academy'. After graduating, I set up in Munich where I have been for the last three years working for two successful start ups. I have been working for a fintech start-up 'Bilendo' who are based in credit management and have an online platform.
 
 As a credit management platform, we had a variety of clients from small to very large. My role has seen me working closely alongside multi billion revenue companies. An example of my work included me building one of our main clients a user role feature which would be able to limit access in our software for certain user-types. Our close relationship with these type of companies included our team building a feature where customers could insure their invoices on our order-to-cash platform. My role was to create the data-transfer feature so we are able to send customer data to the re-insurer.
 
