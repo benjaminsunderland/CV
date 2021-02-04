@@ -11,6 +11,7 @@ Currently, I am working at parcelLab. I spend my time connecting to APIs to tran
 ## Techstack
 
 * Ruby
+* Python
 * Javascript
 * Ajax
 * SQL
@@ -22,12 +23,14 @@ Currently, I am working at parcelLab. I spend my time connecting to APIs to tran
 * Rails
 * jQuery
 * Bootstrap
+* Node
 
 ## Testing 
 
 * Minitest
 * Capybara
 * RSpec
+* Jeat
 
 ## Techniques 
 
