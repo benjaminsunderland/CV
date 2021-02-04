@@ -4,7 +4,7 @@ Having had a fascination in software development since a young age, I decided to
 
 As a credit management platform, we had a variety of clients from small to very large. My role has seen me working closely alongside multi billion revenue companies. An example of my work included me building one of our main clients a user role feature which would be able to limit access in our software for certain user-types. Our close relationship with these type of companies included our team building a feature where customers could insure their invoices on our order-to-cash platform. My role was to create the data-transfer feature so we are able to send customer data to the re-insurer.
 
-I am seeking a backend role in an environment which will support me to expand my knowledge and improve my skills where I feel I can add real value and help make a difference. In addition to the hard skills I developed at Bilendo, I also bring enthusiasm, I'm a good team player who doesn't mind getting stuck in when required and a personality that naturally makes people feel comfortable.
+Currently, I am working at parcelLab. I spend my time connecting to APIs to transform this data that I apply to a model my system uses. parcelLab is a intermediary company that connects shops to their customers. We make sure people get an awesome delivery experience by providing realistic data and a better journey where they will always come back.
 
 <br/><br/>
 
