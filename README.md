@@ -19,6 +19,7 @@ Currently, I am working at parcelLab. I spend my time connecting to APIs to tran
 * SQL
 * HTML5
 * CSS
+* AWS
 
 ## Frameworks
 
@@ -26,6 +27,8 @@ Currently, I am working at parcelLab. I spend my time connecting to APIs to tran
 * jQuery
 * Bootstrap
 * Node
+* React
+* Meteor
 
 ## Testing 
 
