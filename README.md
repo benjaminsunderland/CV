@@ -92,7 +92,8 @@ At an early age, I had a fascination in automation software which would play a p
 
 ## Experience
 
-* Bilendo (March '18 - currently still here)
+* parcelLab (Nov '19 - Current workplace)
+* Bilendo (March '18 - Oct'19)
 * Makers Academy (August '17 - November '17)
 * Bills Restaurant (February '17 - August '17)
 * Eee Gosh (January 17' - March 17')
