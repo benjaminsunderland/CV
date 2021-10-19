@@ -34,7 +34,7 @@ Currently at parceLab, we help companies to connect to their customers by provid
 * Minitest
 * Capybara
 * RSpec
-* Jeat
+* Jest
 
 ## Techniques 
 
@@ -120,7 +120,7 @@ At an early age, I had a fascination in automation software which would play a p
 
 ## Languages
 
-- Languages - Basic German (student currently) & French & Russian
+- Languages - Basic German (student currently) & French 
 
 ## Interests
 
@@ -131,7 +131,7 @@ At an early age, I had a fascination in automation software which would play a p
 
 ## Volunteering
 
-- Love Revolution, a homeless charity (Current)
+- Love Revolution, a homeless charity 
 - Refugee camp in Calais, France
 - Battersea Cats & Dogs Home
 
