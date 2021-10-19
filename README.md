@@ -2,11 +2,10 @@
 
 Having had a fascination in software development since a young age, I decided to embark on a software engineering career. This led me to the award winning bootcamp 'Makers Academy'. After graduating, I set up in Munich where I have been for the last three years working for two successful start ups. I have been working for a fintech start-up 'Bilendo' who are based in credit management and have an online platform.
 
-Currently at parceLab, we help companies to connect to their customers by providing a better user journey from ordering to receiving their package. Our plugin gives the user better detailed delivery announcements by using delivery company (DHL) to give realistic personal updates to the user.
-
 As a credit management platform, we had a variety of clients from small to very large. My role has seen me working closely alongside multi billion revenue companies. An example of my work included me building one of our main clients a user role feature which would be able to limit access in our software for certain user-types. Our close relationship with these type of companies included our team building a feature where customers could insure their invoices on our order-to-cash platform. My role was to create the data-transfer feature so we are able to send customer data to the re-insurer.
 
-Currently, I am working at parcelLab. I spend my time writing API integrations, writing parser configurations to consume and transform data where we can apply it to a model our system uses. parcelLab is a intermediary company that connects shops to their customers. We make sure people get an awesome delivery experience by providing realistic data and a better journey where they will always come back.
+
+Currently at parceLab, we help companies to connect to their customers by providing a better user journey from ordering to receiving their package. Our plugin gives the user better detailed delivery announcements by using delivery company (DHL) to give realistic personal updates to the user. I spend my time writing API integrations, writing parser configurations to consume and transform data where we can apply it to a model our system uses. parcelLab is a intermediary company that connects shops to their customers. We make sure people get an awesome delivery experience by providing realistic data and a better journey where they will always come back.
 
 <br/><br/>
 
