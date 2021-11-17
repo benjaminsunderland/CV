@@ -6,8 +6,6 @@ As a credit management platform, we had a variety of clients from small to very 
 
 Currently at parceLab, we help companies to connect to their customers by providing a better user journey from ordering to receiving their package. Our plugin gives the user better detailed delivery announcements by using delivery company (DHL) to give realistic personal updates to the user. I spend my time writing API integrations, writing parser configurations to consume and transform data where we can apply it to a model our system uses. parcelLab is a intermediary company that connects shops to their customers. We make sure people get an awesome delivery experience by providing realistic data and a better journey where they will always come back.
 
-- At parcelLab, 
-
 <br/><br/>
 
 ## Techstack
@@ -72,8 +70,6 @@ I have always preferred learning by 'doing', and on the job, rather than by bein
 
 At an early age, I had a fascination in automation software which would play a particular computer game for me. I developed a basic understanding of how java-based scripts are structured as the game I played was programmed in this language. From these early experiences I have continued to have an interest in technology and programming. This has led me to work at a variety of places that required a different skillset where I learned different object orientated programming languages. This digital world ultimately led to me signing up at Makers Academy and learning a variety of object-orientated programming languages. In the last couple of years in my employment, I have been immersed into the world of Rails where I learned:
 
-
-
  * The MVC pattern
  * Associations
  * ActiveRecord
@@ -97,18 +93,18 @@ At an early age, I had a fascination in automation software which would play a p
 
 * parcelLab (Nov '19 - Current workplace)
 
-- Javascript
-- Python
-- Node
-- AWS
-- Regex
+> Javascript
+> Python
+> Node
+> AWS
+> Regex
 - Meteor 
 
 * Bilendo (March '18 - Oct'19)
 
-- Ruby
-- Rails
-- RSpec, Mocha, Minitest
+> Ruby
+> Rails
+> RSpec, Mocha, Minitest
 
 * Makers Academy (August '17 - November '17)
 
