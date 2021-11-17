@@ -2,10 +2,11 @@
 
 Having had a fascination in software development since a young age, I decided to embark on a software engineering career. This led me to the award winning bootcamp 'Makers Academy'. After graduating, I set up in Munich where I have been for the last three years working for two successful start ups. I have been working for a fintech start-up 'Bilendo' who are based in credit management and have an online platform.
 
-As a credit management platform, we had a variety of clients from small to very large. My role has seen me working closely alongside multi billion revenue companies. An example of my work included me building one of our main clients a user role feature which would be able to limit access in our software for certain user-types. Our close relationship with these type of companies included our team building a feature where customers could insure their invoices on our order-to-cash platform. My role was to create the data-transfer feature so we are able to send customer data to the re-insurer.
-
+As a credit management platform, we had a variety of clients from small to very large. My role has seen me working closely alongside multi billion revenue companies. An example of my work included me building one of our main clients a user role feature which would be able to limit access in our software for certain user-types. Our close relationship with these type of companies included our team building a feature where customers could insure their invoices on our order-to-cash platform. My role was to create the data-transfer feature so we are able to send customer data to the re-insurer. 
 
 Currently at parceLab, we help companies to connect to their customers by providing a better user journey from ordering to receiving their package. Our plugin gives the user better detailed delivery announcements by using delivery company (DHL) to give realistic personal updates to the user. I spend my time writing API integrations, writing parser configurations to consume and transform data where we can apply it to a model our system uses. parcelLab is a intermediary company that connects shops to their customers. We make sure people get an awesome delivery experience by providing realistic data and a better journey where they will always come back.
+
+- At parcelLab, 
 
 <br/><br/>
 
@@ -71,6 +72,8 @@ I have always preferred learning by 'doing', and on the job, rather than by bein
 
 At an early age, I had a fascination in automation software which would play a particular computer game for me. I developed a basic understanding of how java-based scripts are structured as the game I played was programmed in this language. From these early experiences I have continued to have an interest in technology and programming. This has led me to work at a variety of places that required a different skillset where I learned different object orientated programming languages. This digital world ultimately led to me signing up at Makers Academy and learning a variety of object-orientated programming languages. In the last couple of years in my employment, I have been immersed into the world of Rails where I learned:
 
+
+
  * The MVC pattern
  * Associations
  * ActiveRecord
@@ -93,8 +96,24 @@ At an early age, I had a fascination in automation software which would play a p
 ## Experience
 
 * parcelLab (Nov '19 - Current workplace)
+
+- Javascript
+- Python
+- Node
+- AWS
+- Regex
+- Meteor 
+
 * Bilendo (March '18 - Oct'19)
+
+- Ruby
+- Rails
+- RSpec, Mocha, Minitest
+
 * Makers Academy (August '17 - November '17)
+
+- Variety of Object Orientated Programming Languages and Frameworks
+
 * Bills Restaurant (February '17 - August '17)
 * Eee Gosh (January 17' - March 17')
 * Carer (October '13 - December '16)
