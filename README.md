@@ -110,9 +110,9 @@ At an early age, I had a fascination in automation software which would play a p
 
 - Variety of Object Orientated Programming Languages and Frameworks
 
-**[Bills Restaurant]** (February '17 - August '17)
-**[Eee Goh]** (January 17' - March 17')
-**[Carer]** (October '13 - December '16)
+**[Bills Restaurant]** (February '17 - August '17)<br/>
+**[Eee Goh]** (January 17' - March 17')<br/>
+**[Carer]** (October '13 - December '16)<br/>
 **[GRSyndicate]** (February '12 - October '12)
 
 ## Education
